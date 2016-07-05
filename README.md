@@ -31,7 +31,7 @@ A curated list of awesome articles, tutorials and resources dealing with Intelle
 * https://www.rocketlawyer.com/form/cease-and-desist-letter.rl
 
 ### Using the DMCA takedown notice
-*https://nppa.org/page/5617
+* https://nppa.org/page/5617
 
 
 ### Other legal docs:
